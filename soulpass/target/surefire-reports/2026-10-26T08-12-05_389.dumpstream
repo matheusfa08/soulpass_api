@@ -1,0 +1,5 @@
+# Created at 2026-10-26T08:12:05.614
+Boot Manifest-JAR contains absolute paths in classpath 'D:\1tdspj\deployar\soulpass_api\soulpass\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
